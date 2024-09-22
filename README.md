@@ -1,7 +1,7 @@
 # 💫 About Me:
     👋 Hi, I’m @joseangel-romero   
     👀 I’m interested in Devops practises & Software Development
-    🌱Actually working as a Devops Engineer & finishing a degree on computing
+    🌱 Actually working as a Devops Engineer & finishing a degree on computing
     📫 Reach me at jose@jardal.es
 
 
