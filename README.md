@@ -1,8 +1,9 @@
 # 💫 About Me:
+    👨‍💻 https://romeroja.com
     👋 Hi, I’m @joseangel-romero   
     👀 I’m interested in Devops practises & Software Development
     🌱 Actually working as a Devops Engineer & finishing a degree on computing
-    📫 Reach me at jose@avilop.com
+    📫 Reach me at contact@romeroja.com
 
 
 # 💻 Tech Stack:
